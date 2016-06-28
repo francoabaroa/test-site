@@ -36,6 +36,51 @@ img {
 
 }
 
+.contain {
+ 
+  height: 400px;
+  width: 60%;
+  margin: 10px auto;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  resize: both;
+
+ 
+
+}
+
+.newcontain {
+  border: 10px solid black;
+  height: 500px;
+  width: 80%;
+  margin: 10px auto;
+  padding: 10px;
+ 
+}
+
+.buttonz {
+
+      border-radius: 24px;
+      background-color: #1A1A1A;
+      color:white;
+      margin: 2px;
+      width: 160px;
+      height: 45px;
+      font-size: 20px;
+
+}
+
+#result {
+    background-color: #C0FF33;
+    width:500px; 
+    height:100px; 
+    font-size:50px; 
+    text-align: center;
+
+}
+
 
 
 
