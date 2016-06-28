@@ -9,6 +9,11 @@ h4 {
     
 }
 
+p {
+    color:white;
+    
+}
+
 
 
 body {
@@ -23,6 +28,11 @@ img {
    border:2px solid #021a40;
     border-radius: 24px;
   
+
+}
+
+.what {
+    background: #000000 url("http://fanaru.com/doge/image/18361-doge-follow-your-dreams.jpg") no-repeat fixed center;
 
 }
 
